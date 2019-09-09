@@ -1,5 +1,6 @@
 
 #importing packages
+
 from getpass import getpass
 from netmiko import ConnectHandler
 from netmiko.ssh_excpetion import NetMikoTimeoutException
